@@ -1,10 +1,10 @@
-from __future__ import annotations
+
 
 """
 Este script ejecuta los tres modelos funcionales de python realizando un barrido temporal para estudiar el transitorio
 y  guarda  las cuatro metricas utilizadas en la memoria.
 """
-
+from __future__ import annotations
 import argparse
 import csv
 import logging
